@@ -8,7 +8,7 @@ Proyek ini adalah **Otomatisasi Pengujian E2E (End-to-End)** pada modul Login, D
 
 Seluruh skenario uji (**24 Test Cases Login, Directory, & Recruitment**) telah dieksekusi dan dinyatakan **Lolos (PASSED)** dengan tingkat keberhasilan 100%.
 
-Hasil Eksekusi Intercept Login :
+Hasil Eksekusi Login :
 ![Login](./login.png)
 
 Hasil Eksekusi Directory :
