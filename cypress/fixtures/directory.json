@@ -1,0 +1,17 @@
+{
+  "searchByValidName": {
+    "employeeName": "Peter"
+  },
+  "searchByInvalidName": {
+    "employeeName": "Zzxxqqyy123"
+  },
+  "searchByJobTitle": {
+    "jobTitle": "QA Engineer"
+  },
+  "searchByLocation": {
+    "location": "Texas R&D"
+  },
+  "searchForResetScenario": {
+    "employeeName": "Peter"
+  }
+}

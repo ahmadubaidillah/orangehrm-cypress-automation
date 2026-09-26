@@ -1,0 +1,22 @@
+{
+  "validCandidate": {
+    "firstName": "abdul",
+    "lastName": "aziz",
+    "email": "abdul.aziz@example.com",
+    "vacancy": "Software Engineer"
+  },
+  "candidateWithoutFirstName": {
+    "firstName": "",
+    "lastName": "aziz",
+    "email": "abdul.aziz@example.com"
+  },
+  "searchByName": {
+    "candidateName": "Peter"
+  },
+  "filterByStatus": {
+    "status": "Application Initiated"
+  },
+  "searchForResetScenario": {
+    "candidateName": "Zzxxqqyy123"
+  }
+}

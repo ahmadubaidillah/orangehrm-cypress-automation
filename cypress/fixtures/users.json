@@ -1,0 +1,26 @@
+{
+  "validUser": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "wrongPassword": {
+    "username": "Admin",
+    "password": "wrongPassword123"
+  },
+  "wrongUsername": {
+    "username": "WrongAdmin",
+    "password": "admin123"
+  },
+  "emptyUsernameAndPassword": {
+    "username": "",
+    "password": ""
+  },
+  "emptyUsernameOnly": {
+    "username": "",
+    "password": "admin123"
+  },
+  "emptyPasswordOnly": {
+    "username": "Admin",
+    "password": ""
+  }
+}
