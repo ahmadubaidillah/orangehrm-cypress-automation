@@ -68,3 +68,11 @@ npm run cy:open
 ```
 
 ---
+
+## 👤 Author
+
+**Ahmad Ubaidillah Asshidiqi**
+Junior QA Engineer
+
+- LinkedIn: [LinkedIn](https://id.linkedin.com/in/ahmad-ubaidillah-asshidiqi)
+- GitHub: [Github](https://github.com/ahmadubaidillah)
