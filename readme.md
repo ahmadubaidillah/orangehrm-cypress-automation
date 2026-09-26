@@ -31,7 +31,7 @@ Proyek ini dibangun menggunakan susunan teknologi berikut:
 
 ## 🗂️ Test Documentation
 
-Berikut data login test case Orange HRM (positive/negative cases and priority levels) :
+Berikut data Test Scenario & Test Case Orange HRM modul Login, Directory, & Recruitment :
 📄 [`./OrangeHRM_TestScenario_TestCase.xlsx`](./OrangeHRM_TestScenario_TestCase.xlsx) / [Test Scenario & Test Case spreadsheets](https://docs.google.com/spreadsheets/d/1lNeqrqPhLRg6n41CHLy1tFzfVigAVsrb/edit?usp=sharing&ouid=109837913803375586172&rtpof=true&sd=true)
 
 ---
@@ -47,7 +47,7 @@ Pastikan perangkat Anda sudah terinstal **Node.js** (Rekomendasi versi LTS terba
 ### 2. Kloning Repositori
 
 ```bash
-git clone https://github.com
+git clone https://github.com/ahmadubaidillah/orangehrm-cypress-automation
 cd orangehrm-cypress-automation
 ```
 
